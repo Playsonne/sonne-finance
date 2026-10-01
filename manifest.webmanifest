@@ -1,0 +1,32 @@
+{
+  "id": "/sonne-finance/",
+  "name": "SONNE FINANCE",
+  "short_name": "SONNE",
+  "lang": "es",
+  "description": "Tu espacio financiero local.",
+  "start_url": "/sonne-finance/",
+  "scope": "/sonne-finance/",
+  "display": "standalone",
+  "background_color": "#141916",
+  "theme_color": "#141916",
+  "icons": [
+    {
+      "src": "icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icons/maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

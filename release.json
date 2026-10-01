@@ -1,0 +1,64 @@
+{
+  "version": "0.3.0",
+  "build": "1a820f986e9212a302f6",
+  "environment": "production",
+  "base": "/sonne-finance/",
+  "resources": [
+    {
+      "path": "assets/Backups-CG8L3F8S.js",
+      "sha256": "e27e13b95ae628efcdf34f45961333e1f7b12f0c3b40e888055b1cdb3678008a"
+    },
+    {
+      "path": "assets/Historial-D4RnFdAA.js",
+      "sha256": "9ce3a092ce52844a7c9c9870d6de056e17080ff6bddfda99856a1a4db4565cf2"
+    },
+    {
+      "path": "assets/Plan-BM_jvVLu.js",
+      "sha256": "c5356ce879bff24749292af1a60f7b31ad747768b530423c5832d2b6c211dd46"
+    },
+    {
+      "path": "assets/Simulador-CzM6mLRf.js",
+      "sha256": "64a8005f69795147ee917f822c497a33600dbc434090abc295e3df48fe85777d"
+    },
+    {
+      "path": "assets/index-BmSa3AD6.js",
+      "sha256": "89e009fe213b73e09b8bc57565ce63b1d1d08dce3a6521606f892764452918fb"
+    },
+    {
+      "path": "assets/index-CFHFY8J9.css",
+      "sha256": "eb459bd79070d30858e842922818e166011c592c9a2c704004923757e60e5fc6"
+    },
+    {
+      "path": "assets/shared-BSvBsTId.js",
+      "sha256": "0810a8e06a7cfb1339f6ec3de6986b9dc9c603e8e40c1e6d14dc39c53957425b"
+    },
+    {
+      "path": "icons/apple-180.png",
+      "sha256": "fd62a8cf2ee367a9852eebff3ac7defbf3e937c45b51e4be351e27af8ec7f857"
+    },
+    {
+      "path": "icons/icon-192.png",
+      "sha256": "bcb99822e81a8079f7cf3c04c4eefab76c8f5fc9ef30148d77b367b090b3b17a"
+    },
+    {
+      "path": "icons/icon-512.png",
+      "sha256": "c83371e1e685bacb76403a142550948541260daa1f4d5948a2d1945659f31307"
+    },
+    {
+      "path": "icons/maskable-512.png",
+      "sha256": "1bfa28dd912ffd5c2d143b481080b7ff03ef7400f2f89c85dcda64da087b2717"
+    },
+    {
+      "path": "icons/sun.svg",
+      "sha256": "178c1023c2e2be0011328cdbc65e7583613623451b3464cb6c9d4f5c01c56068"
+    },
+    {
+      "path": "index.html",
+      "sha256": "2f70e0891d74020ddd61261df806d630ccfa2f04796fe0c60edd68234fb55a1a"
+    },
+    {
+      "path": "manifest.webmanifest",
+      "sha256": "3bb8f69fc5305921683fd48d6ea20a3f37cd6321a8f829c04a72cac67f12cd1e"
+    }
+  ]
+}
